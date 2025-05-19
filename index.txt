@@ -1,0 +1,23 @@
+playburst/
+├── public/
+│   ├── games/
+│   │   ├── flappy-bird/        # Complete Flappy Bird clone
+│   │   │   ├── index.html
+│   │   │   ├── game.js
+│   │   │   └── assets/
+│   │   ├── 2048/               # 2048 Puzzle Game
+│   │   │   ├── index.html
+│   │   │   └── game.js
+│   │   ├── snake/              # Snake Game
+│   │   │   ├── index.html
+│   │   │   └── game.js
+│   │   └── space-invaders/     # Space Invaders
+│   │       ├── index.html
+│   │       └── game.js
+│   ├── js/
+│   │   └── game-loader.js      # Dynamic game loader
+│   └── assets/
+│       ├── game-thumbnails/    # All game preview images
+│       └── game-screenshots/
+├── server.js                   # Backend API (optional)
+└── README.md                   # Setup guide
