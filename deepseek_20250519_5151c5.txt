@@ -1,0 +1,19 @@
+playburst/
+├── public/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── main.js
+│   │   └── game-loader.js
+│   ├── games/
+│   │   ├── flappy-bird/
+│   │   ├── 2048/
+│   │   └── snake/
+│   ├── assets/
+│   │   ├── logo.png
+│   │   ├── icons/
+│   │   └── thumbnails/
+│   └── index.html
+├── server.js
+├── package.json
+└── README.md
