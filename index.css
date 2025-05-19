@@ -1,0 +1,12 @@
+:root {
+    --primary-color: #6e48aa; /* New purple theme */
+    --secondary-color: #9d50bb;
+}
+
+header {
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+}
+
+.logo img {
+    height: 50px; /* Adjust based on your logo */
+}
